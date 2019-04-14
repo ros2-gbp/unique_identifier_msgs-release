@@ -1,0 +1,12 @@
+Source: ros-dashing-unique-identifier-msgs
+Section: misc
+Priority: extra
+Maintainer: Jacob Perron <jacob@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-dashing-ament-cmake, ros-dashing-rosidl-default-generators, ros-dashing-ros-workspace, ros-dashing-rmw-connext-cpp, ros-dashing-rmw-fastrtps-cpp, ros-dashing-rmw-implementation, ros-dashing-rmw-opensplice-cpp, ros-dashing-rosidl-typesupport-connext-c, ros-dashing-rosidl-typesupport-connext-cpp, ros-dashing-rosidl-typesupport-opensplice-c, ros-dashing-rosidl-typesupport-opensplice-cpp
+Homepage: http://ros.org/wiki/unique_identifier_msgs
+Standards-Version: 3.9.2
+
+Package: ros-dashing-unique-identifier-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-dashing-rosidl-default-runtime, ros-dashing-ros-workspace
+Description: ROS messages for universally unique identifiers.
