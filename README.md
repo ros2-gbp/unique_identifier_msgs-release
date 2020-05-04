@@ -1,3 +1,26 @@
+## unique_identifier_msgs (foxy) - 2.1.1-2
+
+The packages in the `unique_identifier_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy unique_identifier_msgs` on `Mon, 04 May 2020 23:43:58 -0000`
+
+The `unique_identifier_msgs` package was released.
+
+Version of package(s) in repository `unique_identifier_msgs`:
+
+- upstream repository: https://github.com/ros2/unique_identifier_msgs.git
+- release repository: https://github.com/ros2-gbp/unique_identifier_msgs-release.git
+- rosdistro version: `2.1.1-1`
+- old version: `2.1.1-1`
+- new version: `2.1.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.18`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## unique_identifier_msgs (foxy) - 2.1.1-1
 
 The packages in the `unique_identifier_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy unique_identifier_msgs` on `Sun, 26 Apr 2020 00:17:19 -0000`
