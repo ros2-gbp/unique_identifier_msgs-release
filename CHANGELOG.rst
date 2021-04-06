@@ -1,6 +1,11 @@
 Change history
 ==============
 
+2.2.1 (2021-04-06)
+------------------
+* Change index.ros.org -> docs.ros.org (`#21 <https://github.com/ros2/unique_identifier_msgs/issues/21>`_)
+* Contributors: Chris Lalancette
+
 2.2.0 (2020-12-08)
 ------------------
 * Update QD to QL 1 (`#17 <https://github.com/ros2/unique_identifier_msgs/issues/17>`_)
