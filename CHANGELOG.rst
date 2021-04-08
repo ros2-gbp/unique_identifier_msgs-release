@@ -1,24 +1,18 @@
 Change history
 ==============
 
-2.2.1 (2021-04-06)
+2.1.3 (2021-04-08)
 ------------------
-* Change index.ros.org -> docs.ros.org (`#21 <https://github.com/ros2/unique_identifier_msgs/issues/21>`_)
-* Contributors: Chris Lalancette
-
-2.2.0 (2020-12-08)
-------------------
-* Update QD to QL 1 (`#17 <https://github.com/ros2/unique_identifier_msgs/issues/17>`_)
-* Update Quality Declaration to QL2. (`#15 <https://github.com/ros2/unique_identifier_msgs/issues/15>`_)
-* Update Quality level to level 3 (`#13 <https://github.com/ros2/unique_identifier_msgs/issues/13>`_)
+* Update quality declaration links (re: `ros2/docs.ros2.org#52 <https://github.com/ros2/docs.ros2.org/issues/52>`_) (`#20 <https://github.com/ros2/unique_identifier_msgs/issues/20>`_)
+* Update QD to QL 1 (`#18 <https://github.com/ros2/unique_identifier_msgs/issues/18>`_)
 * Add Security Vulnerability Policy pointing to REP-2006. (`#11 <https://github.com/ros2/unique_identifier_msgs/issues/11>`_)
-* Contributors: Chris Lalancette, Michel Hidalgo, Stephen Brawner, brawner
+* Contributors: Alejandro Hernández Cordero, Chris Lalancette, Michel Hidalgo, Simon Honigmann, Stephen Brawner
 
 2.1.2 (2020-05-26)
 ------------------
 * Change Contributing.md to match linter template (`#10 <https://github.com/ros2/unique_identifier_msgs/issues/10>`_)
 * Add README and QUALITY_DECLARATION (`#8 <https://github.com/ros2/unique_identifier_msgs/issues/8>`_)
-* Contributors: Jorge Perez, brawner
+* Contributors: Jorge Perez,  Stephen Brawner
 
 2.1.1 (2020-04-25)
 ------------------
