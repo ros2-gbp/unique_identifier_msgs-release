@@ -1,6 +1,11 @@
 Change history
 ==============
 
+2.6.0 (2024-04-29)
+------------------
+* Update quality declaration doc (`#29 <https://github.com/ros2/unique_identifier_msgs/issues/29>`_)
+* Contributors: Christophe Bedard
+
 2.5.0 (2023-08-21)
 ------------------
 * Update to C++17 (`#27 <https://github.com/ros2/unique_identifier_msgs/issues/27>`_)
