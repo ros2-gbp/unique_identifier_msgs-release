@@ -1,3 +1,26 @@
+## unique_identifier_msgs (rolling) - 2.9.0-1
+
+The packages in the `unique_identifier_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling unique_identifier_msgs` on `Tue, 05 May 2026 16:51:39 -0000`
+
+The `unique_identifier_msgs` package was released.
+
+Version of package(s) in repository `unique_identifier_msgs`:
+
+- upstream repository: https://github.com/ros2/unique_identifier_msgs.git
+- release repository: https://github.com/ros2-gbp/unique_identifier_msgs-release.git
+- rosdistro version: `2.8.1-2`
+- old version: `2.8.1-2`
+- new version: `2.9.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## unique_identifier_msgs (rolling) - 2.8.1-1
 
 The packages in the `unique_identifier_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling unique_identifier_msgs` on `Tue, 29 Jul 2025 20:24:43 -0000`
